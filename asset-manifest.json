@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/My-Portfolio/static/css/main.9e65be80.css",
+    "main.js": "/My-Portfolio/static/js/main.b53ab7f1.js",
+    "static/js/787.5e2b79fc.chunk.js": "/My-Portfolio/static/js/787.5e2b79fc.chunk.js",
+    "static/media/AutoFixer.png": "/My-Portfolio/static/media/AutoFixer.da4c4b3954231280073e.png",
+    "static/media/AutoRentify.png": "/My-Portfolio/static/media/AutoRentify.50af3062bd48f585881f.png",
+    "static/media/Fresh Fruit Hub .png": "/My-Portfolio/static/media/Fresh Fruit Hub .346741b0568926cf1932.png",
+    "static/media/Hospital SS.png": "/My-Portfolio/static/media/Hospital SS.ea39fb6bb6511029afcd.png",
+    "static/media/Rental hub .jpg": "/My-Portfolio/static/media/Rental hub .158d9cbe3a20b9a23c72.jpg",
+    "static/media/Healthcare.png": "/My-Portfolio/static/media/Healthcare.b4ba2dd0110f2e0c5f66.png",
+    "static/media/TextUtils.png": "/My-Portfolio/static/media/TextUtils.b1a69ea4f732b1f2b3be.png",
+    "static/media/Solar.png": "/My-Portfolio/static/media/Solar.47ec173ca10aaa3ac098.png",
+    "static/media/Stars.svg": "/My-Portfolio/static/media/Stars.8a0c1e35dbdee9d1871f.svg",
+    "static/media/Graph.png": "/My-Portfolio/static/media/Graph.8e60158abc344cfa8455.png",
+    "static/media/Trees.svg": "/My-Portfolio/static/media/Trees.6947010d7683924c2b24.svg",
+    "static/media/Silhouette.svg": "/My-Portfolio/static/media/Silhouette.94098b6d48b79ae2a99d.svg",
+    "static/media/Moon.svg": "/My-Portfolio/static/media/Moon.b4f3fe5b459b519cfdb9.svg",
+    "index.html": "/My-Portfolio/index.html",
+    "static/media/envelope.svg": "/My-Portfolio/static/media/envelope.2da9f9f0571e695cc384.svg",
+    "main.9e65be80.css.map": "/My-Portfolio/static/css/main.9e65be80.css.map",
+    "main.b53ab7f1.js.map": "/My-Portfolio/static/js/main.b53ab7f1.js.map",
+    "787.5e2b79fc.chunk.js.map": "/My-Portfolio/static/js/787.5e2b79fc.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9e65be80.css",
+    "static/js/main.b53ab7f1.js"
+  ]
+}
