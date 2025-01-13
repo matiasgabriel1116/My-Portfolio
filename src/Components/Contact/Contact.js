@@ -49,7 +49,7 @@ const Contact = () => {
             <p className="separator" />
             <p className="subtitle">
               Please, use the form below or send an email to {''}
-              <span className="mail">mihirgoswami2006@gmail.com</span>
+              <span className="mail">matiasgrabrieloviedo@gmail.com</span>
               :
             </p>
           </div>

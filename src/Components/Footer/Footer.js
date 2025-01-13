@@ -7,7 +7,7 @@ const Footer = props => {
     <footer>
       <div className="wrapper">
         <h3>THANKS FOR VISITING</h3>
-        <p>© {new Date().getFullYear()} Mihir Goswami.</p>
+        <p>© {new Date().getFullYear()} Matias Gabriel Oviedo.</p>
         <SocialLinks />
       </div>
     </footer>

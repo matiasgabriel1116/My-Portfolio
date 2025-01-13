@@ -14,18 +14,21 @@ const About = (props) => {
             <p className="separator" />
           </div>
           <div className="desc full">
-            <h4 className="subtitle">My name is Mihir.</h4>
+            <h4 className="subtitle">My name is Matias Gabriel Oviedo.</h4>
             <p>
-              I am a Passionate web developer web designer App developer and AI
-              enthusiast
+            I am a Passionate Full Stack Developer, Web Designer, Mobile App Developer, and AI Enthusiast.
             </p>
             <p>
-              I really enjoy solving problems as well as making things pretty
-              and easy to use. I can't stop learning new things; the more, the
-              better. I also love to play chess.
+              I love crafting innovative solutions, designing intuitive user experiences, 
+              and turning ideas into reality with code. Solving problems and creating functional, 
+              visually appealing applications is what excites me. I am always eager to learn new skills 
+              and explore emerging technologies—there’s no limit to growth!
+
+              Outside of coding, I enjoy playing volleyball and staying active with other sports, 
+              which keep me energized and focused.  
             </p>
             <p>
-              I love to code because if I can think it, I can make it a reality.
+              For me, coding is a creative outlet where anything I imagine can come to life. If I can think it, I can build it.
             </p>
           </div>
           <div className="title">
@@ -35,29 +38,29 @@ const About = (props) => {
           <div className="desc">
             <h4 className="subtitle">I'm a programmer.</h4>
             <p>
-              For the front-end I usually work with Javascript,or including
-              popular frameworks like ReactJS and NextJS. I also make the web
-              pretty by using CSS and, whenever needed, any of their friends:
-              Bootstrap, tailwind, etc.
+            I am a skilled programmer with a strong focus on both front-end and back-end development. 
             </p>
             <p>
-              For the back-end I also work with Javascript (NodeJS, Express,
-              MongoDB, etc).
+            On the front-end, I specialize in JavaScript, utilizing popular frameworks such as ReactJS and NextJS to create dynamic, 
+            responsive user experiences. I also enhance the visual appeal of web applications with CSS, 
+            along with frameworks like Bootstrap and Tailwind when necessary.
+            </p>
+            <p>
+            On the back-end, I work with JavaScript-based technologies, 
+              including NodeJS, Express, and MongoDB, to build efficient and scalable server-side solutions.
             </p>
           </div>
           <div className="desc">
             <h4 className="subtitle">Also a App Developer.</h4>
             <p>
-              I feel comfortable working with many Adobe products. Photoshop,
-              Illustrator, InDesign, Lightroom or Xd are some kind of industry
-              standards and I love working with them. I'm not limited to them,
-              though: Gimp, Inkscape or Figma are also very valid applications
-              that I've been working with.
+            I am an experienced app developer, proficient in creating intuitive and visually engaging interfaces. 
+            I am highly skilled with Adobe products such as Photoshop, Illustrator, InDesign, Lightroom, and XD, 
+            all of which are considered industry standards. I am also well-versed in alternative 
+            design tools like Gimp, Inkscape, and Figma, which I use to create impactful designs across various platforms.
             </p>
             <p>
-              User interfaces, brochures, books, branding... You name it! As I
-              mentioned, creating pretty things is particularly important for
-              me.
+            My expertise spans user interface design, branding, brochures, 
+            and print materials—creating visually compelling experiences is a central aspect of my work.
             </p>
           </div>
         </article>
@@ -124,7 +127,7 @@ const About = (props) => {
 </div>
 
         <div className="graph-container">
-          <a href="https://github.com/MIHIR2006 " target="_blank">
+          <a href="https://github.com/matiasgabriel1116 " target="_blank">
             <img className="GraphImg" src={GitGraph} alt="Graph" />
           </a>
         </div>

@@ -126,7 +126,7 @@
   /* Buttons */
   #projects .project-details .buttons {
     display: flex;
-    justify-content: space-between;
+    justify-content: center;
   }
   
   #projects .project-details .buttons a {
